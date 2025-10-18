@@ -1,0 +1,6 @@
+#[desktop_name]:[workspace]:[monitor]:[block_title]
+discord:::Discord Updater
+qq
+org.telegram.desktop.desktop
+io.element.Element
+firefox-developer-edition::DP-2
