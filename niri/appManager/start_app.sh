@@ -73,5 +73,6 @@ while IFS= read -r line; do
         niri msg action move-window-to-workspace $workspace --focus false
     fi
 
-    niri msg action focus-monitor $CUR_MON
 done < $APPLIST
+
+niri msg action focus-monitor $CUR_MON
